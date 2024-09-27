@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Bangers-Regular.ttf",
+      "sha1": "16e3bc27f1343b6661711eaacb999be3307790d4"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Bold.ttf",
+      "sha1": "fef01f34e3de57171aaef4d21430736a97a57e83"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Medium.ttf",
+      "sha1": "08cb46edd036cd9c7d5fb56ee346bf41cc75d26e"
+    },
+    {
+      "path": "src/assets/fonts/Okra-MediumLight.ttf",
+      "sha1": "aceb493dbf84ad53714a4ea5145b3258bc78907d"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Regular.ttf",
+      "sha1": "add9f3d25f9629e6b375eb5cf4f33d5c3554d75c"
+    }
+  ]
+}

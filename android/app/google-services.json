@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553904139136",
+    "project_id": "baymax-d0e34",
+    "storage_bucket": "baymax-d0e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553904139136:android:72364d21b23a902dc52f65",
+        "android_client_info": {
+          "package_name": "com.baymax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauEiuzFVkU8XA77V9e1VVFFtZ-IFCJUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
