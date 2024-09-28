@@ -50,6 +50,3 @@ Kannaujiya00000@gmail.com
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to replace the placeholders with the actual links and images when available!
