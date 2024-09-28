@@ -15,5 +15,5 @@ async function onMessageReceived(message) {
 }
 messaging().setBackgroundMessageHandler(onMessageReceived)
 messaging().onMessage(onMessageReceived)
-
+messaging().getInitialNotification(onMessageReceived)
 AppRegistry.registerComponent(appName, () => App);
