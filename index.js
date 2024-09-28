@@ -13,6 +13,7 @@ async function onMessageReceived(message) {
     await displayNotification(title,description,imageUrl,'fcm-message')
     
 }
-messaging().onMessage(onMessageReceived)
 messaging().setBackgroundMessageHandler(onMessageReceived)
+messaging().onMessage(onMessageReceived)
+
 AppRegistry.registerComponent(appName, () => App);

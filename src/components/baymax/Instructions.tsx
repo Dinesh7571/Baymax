@@ -34,8 +34,8 @@ const Instructions:FC<{
         body:{
           fontFamily:Fonts.Theme,
           fontSize:RFValue(20),
-          padding:20
-
+          padding:20,
+          color:"#000"
         }
       }}>
         {message}
