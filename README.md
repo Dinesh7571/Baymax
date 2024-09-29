@@ -6,7 +6,13 @@
 
 [![Baymax Demo](https://imgs.search.brave.com/rZiCbAt6q-731hHgw7FiUQA-j5NEm41ySq94-3RBFPI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2VuZGlibGUuY29t/L2h1YmZzL0ltcG9y/dGVkX0Jsb2dfTWVk/aWEvc20taWNvbnMt/eW91dHViZS5wbmc)](https://youtu.be/DCYvhKRuVCg?si=41_4H_NN4dsDT9LF)
 
+
+## Downloads the app 
+[Download App](https://drive.google.com/file/d/1HfWwYoaoPM9VKsyPCQDxPL89K5MBTWvU/view?usp=sharing)
+
+
 ## Showcase Screenshots
+
 
 
 ![Baymax Features](showcase/1.png)
