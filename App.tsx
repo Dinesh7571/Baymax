@@ -12,13 +12,13 @@ const App = () => {
    
   const permissionChecks=async()=>{
     requestPermission()
+   
+    registeringAllTriggers()
+    setCategories()
     if(Platform.OS=='android'){
       batteryOptimizationcheck()
       powerManagerCheck()
     }
-    registeringAllTriggers()
-    setCategories()
-   
 
   }
 
